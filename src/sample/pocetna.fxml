@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="469.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.PocetnaController">
+   <children>
+      <Label layoutX="14.0" layoutY="14.0" text="Izaberite dimenziju matrice">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <ChoiceBox fx:id="velicinaPolja" layoutX="25.0" layoutY="41.0" prefHeight="26.0" prefWidth="100.0" />
+      <Label layoutX="300.0" layoutY="16.0" text="Izaberite broj igraca">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <ChoiceBox fx:id="brojIgraca" layoutX="290.0" layoutY="41.0" prefHeight="26.0" prefWidth="100.0" />
+      <Label layoutX="23.0" layoutY="173.0" text="Uneste imena igraca">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <TextField fx:id="imePrvogIgraca" layoutX="25.0" layoutY="225.0" />
+      <TextField fx:id="imeDrugogIgraca" layoutX="251.0" layoutY="225.0" />
+      <Label layoutX="25.0" layoutY="200.0" text="Ime prvog igraca" />
+      <Label layoutX="255.0" layoutY="200.0" text="Ime drugog igraca" />
+      <TextField fx:id="imeTrecegIgraca" layoutX="25.0" layoutY="289.0" />
+      <TextField fx:id="imeCetvrtogIgraca" layoutX="251.0" layoutY="289.0" />
+      <Label layoutX="23.0" layoutY="258.0" text="Ime treceg igraca" />
+      <Label layoutX="251.0" layoutY="262.0" text="Ime cetvrtog igraca" />
+      <Button fx:id="startGameButton" layoutX="180.0" layoutY="335.0" mnemonicParsing="false" onAction="#startGame" text="Pokreni igru" />
+      <Label layoutX="11.0" layoutY="111.0" text="Izaberite broj rupa">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <ChoiceBox fx:id="brojRupa" layoutX="165.0" layoutY="108.0" prefHeight="26.0" prefWidth="128.0" />
+   </children>
+</Pane>

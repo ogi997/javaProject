@@ -1,0 +1,25 @@
+Igrac 1 - 2
+	Figura 1 (OBICNO, plava)  - predjeni put (4-12-20-28-34-40-46-38-30-22-16)  stigla do cilja: (Ne)
+	Figura 2 (LEDBECA, plava)  - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25)  stigla do cilja: (Da)
+	Figura 3 (OBICNO, plava)  - predjeni put (4-12-20-28-34-40-46-38-30)  stigla do cilja: (Ne)
+	Figura 4 (OBICNO, plava)  - predjeni put (4-12-20-28-34)  stigla do cilja: (Ne)
+
+Igrac 2 - 1
+	Figura 1 (SUPERBRZO, crvena)  - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19)  stigla do cilja: (Ne)
+	Figura 2 (LEDBECA, crvena)  - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25)  stigla do cilja: (Da)
+	Figura 3 (OBICNO, crvena)  - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11)  stigla do cilja: (Ne)
+	Figura 4 (SUPERBRZO, crvena)  - predjeni put (4-12-20-28)  stigla do cilja: (Ne)
+
+Igrac 3 - 3
+	Figura 1 (SUPERBRZO, zuta)  - predjeni put (4-12-20-28)  stigla do cilja: (Ne)
+	Figura 2 (SUPERBRZO, zuta)  - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17)  stigla do cilja: (Ne)
+	Figura 3 (SUPERBRZO, zuta)  - predjeni put (4-12-20-28-34-40-46-38)  stigla do cilja: (Ne)
+	Figura 4 (LEDBECA, zuta)  - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25)  stigla do cilja: (Da)
+
+Igrac 4 - 4
+	Figura 1 (LEDBECA, zelena)  - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25)  stigla do cilja: (Da)
+	Figura 2 (LEDBECA, zelena)  - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25)  stigla do cilja: (Da)
+	Figura 3 (LEDBECA, zelena)  - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25)  stigla do cilja: (Da)
+	Figura 4 (SUPERBRZO, zelena)  - predjeni put (4-12-20-28-34-40-46-38-30-22-16-10-11-19-27-33-39-31-23-17-18-26-32-24-25)  stigla do cilja: (Da)
+
+Ukupno vrijeme trajanja igre: 341s
